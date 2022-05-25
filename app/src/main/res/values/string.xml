@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aapName">Стоимость времени</string>
+    <string name="sessionIcon">Звезда</string>
+    <string name="calcText">Расчет</string>
+    <string name="historyText">История</string>
+    <string name="aboutText">О программе</string>
+</resources>
